@@ -1,0 +1,58 @@
+:root {
+     
+    --urlEmpty: url(../img/svg/empty-checkbox.svg);
+    --urlChecked: url(../img/svg/checked-checkbox.svg);
+  }
+
+.filter{
+    max-width: 232px;
+    height: 252px;
+    background: #FFFFFF;
+    margin-left: 103px;
+    box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+}
+
+.filter__header{
+    padding: 20px 20px 0px;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 12px;
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+
+
+}
+
+.filter__options{
+    margin-top: 20px;
+}
+
+.filter__item{
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 20px;
+    padding: 10px 0px 10px 50px;
+    cursor: url('../img/cursor/cursor.png') , auto;
+    background:  var(--urlEmpty) transparent no-repeat 20px;
+    
+}
+.filter__item:hover{
+    background: #F1FCFF var(--urlEmpty) no-repeat  20px;}
+
+.filter__item:last-child:hover{
+        border-radius: 0px 0px 5px 5px;
+    }
+.checked{
+    background: transparent var(--urlChecked) no-repeat 20px;
+}
+.checked:hover{
+    background: #F1FCFF var(--urlChecked) no-repeat 20px;
+}
+
+.disable {    
+    pointer-events: none;
+    opacity: 0.4;    
+  }
+  

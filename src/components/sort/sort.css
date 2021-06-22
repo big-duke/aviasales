@@ -1,0 +1,40 @@
+/* Tabs style start  */
+.tabs{
+    display: flex;
+    width: 502px;
+    height: 50px;
+    box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    overflow: hidden;
+    margin-bottom: 18px;
+}
+.tabs__tab{
+    width:256px;
+    background: #fff;
+    color: #4a4a4a;
+    border: 1px solid #DFE5EC;
+    border-right: none;
+    cursor: url('../img/cursor/cursor.png') , auto;
+}
+.tabs__tab-caption{
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 20px;
+    text-transform: uppercase;
+    text-align: center;
+
+    padding:15px;
+
+}
+
+.tabs-selected {
+    background: #2196F3;
+    color:white;
+    border: none;
+}
+.disable {    
+    pointer-events: none;
+    opacity: 0.4;    
+  }
+ /* Tabs style end  */

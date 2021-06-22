@@ -1,0 +1,14 @@
+ /* Logo style start  */
+ .header__logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding : 50px 450px;
+
+}
+
+.header__logo-pic{
+    width: 60px;
+    height: 60px;
+}
+/* Logo style end  */
