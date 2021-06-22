@@ -6,5 +6,6 @@
 
 Стэк
 * Figma (вёрстка макета, flexbox, grid)
+* Чистый CSS без фреймворков
 * React JS , content-loader
 
