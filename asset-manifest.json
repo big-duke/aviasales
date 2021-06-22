@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/aviasales/static/css/main.8d83b37e.chunk.css",
+    "main.js": "/aviasales/static/js/main.1076365b.chunk.js",
+    "main.js.map": "/aviasales/static/js/main.1076365b.chunk.js.map",
+    "runtime-main.js": "/aviasales/static/js/runtime-main.daecaa0d.js",
+    "runtime-main.js.map": "/aviasales/static/js/runtime-main.daecaa0d.js.map",
+    "static/js/2.b93e0539.chunk.js": "/aviasales/static/js/2.b93e0539.chunk.js",
+    "static/js/2.b93e0539.chunk.js.map": "/aviasales/static/js/2.b93e0539.chunk.js.map",
+    "index.html": "/aviasales/index.html",
+    "static/css/main.8d83b37e.chunk.css.map": "/aviasales/static/css/main.8d83b37e.chunk.css.map",
+    "static/js/2.b93e0539.chunk.js.LICENSE.txt": "/aviasales/static/js/2.b93e0539.chunk.js.LICENSE.txt",
+    "static/media/aviasales-logo.2a735bae.svg": "/aviasales/static/media/aviasales-logo.2a735bae.svg",
+    "static/media/filter.css": "/aviasales/static/media/empty-checkbox.ad129cbf.svg",
+    "static/media/app.css": "/aviasales/static/media/open-sans-v20-latin_cyrillic-regular.ff8679ec.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.daecaa0d.js",
+    "static/js/2.b93e0539.chunk.js",
+    "static/css/main.8d83b37e.chunk.css",
+    "static/js/main.1076365b.chunk.js"
+  ]
+}
